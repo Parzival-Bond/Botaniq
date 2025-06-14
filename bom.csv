@@ -1,1 +1,19 @@
+Reference,Value,Footprint,Description
+U1,ESP32-S3-WROOM-1,Module:ESP32-S3-WROOM-1,WiFi MCU
+U2,MP1584,Module:BuckConverter_MP1584,5V Buck Converter
+U3,AMS1117-3.3,Package_TO_SOT_SMD:SOT-223,3.3V Regulator
+RLY1,Relay,Relay_THT:Relay_SPDT_JQC-3FF,5V Relay
+RLY2,Relay,Relay_THT:Relay_SPDT_JQC-3FF,5V Relay
+Q1,S8050,TO-92_Inline,NPN Transistor
+Q2,S8050,TO-92_Inline,NPN Transistor
+D1,1N4007,DO-41_SOD81,Diode
+D2,1N4007,DO-41_SOD81,Diode
+R1,1k,R_Axial_DIN0207_L6.3mm,Resistor
+R2,1k,R_Axial_DIN0207_L6.3mm,Resistor
+J1,BarrelJack,BarrelJack_Horizontal,12V Input
+J2,LED OUT,TerminalBlock_2_Pin_5.08mm,Relay Output
+J3,Pump OUT,TerminalBlock_2_Pin_5.08mm,Relay Output
+J4,Sensor Power,PinHeader_1x3,3.3V Header
+J5,Analog Inputs,PinHeader_1x4,Sensor Inputs
+J6,ILI9488+Touch,PinHeader_2x8,TFT Display
 
