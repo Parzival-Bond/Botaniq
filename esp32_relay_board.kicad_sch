@@ -1,1 +1,10 @@
+(kicad_sch (version 20221018) (generator kicad)
+  (uuid 9d3b9f8b-c4e0-4095-9fdd-17dc2f3beabc)
+  (paper "A4")
+  (title_block
+    (title "ESP32-S3 Relay Sensor Board")
+    (company "Botaniq Systems")
+    (rev "v1.0")
+  )
+)
 
